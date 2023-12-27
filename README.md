@@ -10,8 +10,11 @@ Interesting courses/books and my repositories on them:
 [Hyperparameter Optimization for Machine Learning, Udemy - Soledad Galli](https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/) | [Github](https://github.com/mxagar/hyperparameter-optimization) | :star: :star: :star: :star: __ 
 [Machine Learning with Imbalanced Data, Udemy - Soledad Galli](https://www.udemy.com/course/machine-learning-with-imbalanced-data/) | [Github](https://github.com/mxagar/machine-learning-imbalanced-data) | :star: :star: :star: :star: __ 
 [Feature Selection for Machine Learning, Udemy - Soledad Galli](https://www.udemy.com/course/feature-selection-for-machine-learning/) | [Github](https://github.com/mxagar/feature-selection-for-machine-learning) | :star: :star: :star: :star: __ 
+[Deployment of Machine Learning Models, Udemy - Soledad Galli](https://www.udemy.com/course/deployment-of-machine-learning-models/) | [Github](https://github.com/mxagar/deploying-machine-learning-models) | :star: :star: :star: :star: __ 
 
-:construction: *Work is on-going...*
+**Select a topic and go its Github link.**
+
+:construction: *Work is on-going, so maybe some of my notes are not finished...*
 
 Mikel Sagardia, 2023.  
 No guarantees.
