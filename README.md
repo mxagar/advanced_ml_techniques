@@ -14,7 +14,7 @@ Interesting courses/books and my repositories on them:
 
 **Select a topic and go its Github link.**
 
-:construction: *Work is on-going, so maybe some of my notes are not finished...*
+:construction: *Work is ongoing, so some of my notes may not be finished...*
 
 Mikel Sagardia, 2023.  
 No guarantees.
